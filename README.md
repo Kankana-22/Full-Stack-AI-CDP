@@ -50,6 +50,5 @@ CLERK_SECRET_KEY=
 
 ## 📸 Demo
 
-Live Demo: *(https://ai-mcvzj12yi-kankanas-projects-2f4bb06e.vercel.app)*
-
-Demo Video: *(https://drive.google.com/file/d/1WbokF_bIidsEhCbuEUvjSXl8Nj9OboNW/view?usp=drive_link)*
+- **Live Demo:** [AI Career Development Platform](https://ai-mcvzj12yi-kankanas-projects-2f4bb06e.vercel.app)
+- **Demo Video:** [Watch Here](https://drive.google.com/file/d/1WbokF_bIidsEhCbuEUvjSXl8Nj9OboNW/view?usp=drive_link)
